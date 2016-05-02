@@ -5,16 +5,16 @@
             <Filename>ResurrectionRemix-M-v5.6.8-20160503-crackling</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download ResurrectionRemix builds">https://yadi.sk/d/JNG95afqrSWCf</RomUrl>
+                title="Прошивка"
+                description="Скачать сборки ResurrectionRemix">https://yadi.sk/d/JNG95afqrSWCf</RomUrl>
             <ChangelogUrl
                 id="changelog"
-                title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>>
+                title="Список изменений"
+                description="Посмотреть список изменений">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>>
             <OpenGappsUrl
             	id="open_gapps"
-            	title="Open"
-            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+            	title="Open GApps"
+            	description="Скачать последние Open GApps">http://opengapps.org</OpenGappsUrl>
 	</crackling>
     </Stable>
 </SlimOTA>
