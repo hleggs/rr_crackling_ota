@@ -6,7 +6,7 @@
             <BuildsUrl
             	id="builds"
                 title="Google Диск"
-                description="Скачать ResurrectionRemix с Google Диск">https://yadi.sk/d/s6K0uPenrTH4W</RomUrl>
+                description="Скачать ResurrectionRemix с Google Диск">https://yadi.sk/d/s6K0uPenrTH4W</BuildsUrl>
             <RomUrl
                 id="rom"
                 title="Яндекс Диск"
@@ -14,7 +14,7 @@
             <BanksGappsUrl
             	id="banks_gapps"
                 title="MEGA"
-                description="Скачать ResurrectionRemix с MEGA">https://yadi.sk/d/s6K0uPenrTH4W</RomUrl>
+                description="Скачать ResurrectionRemix с MEGA">https://yadi.sk/d/s6K0uPenrTH4W</BanksGappsUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
