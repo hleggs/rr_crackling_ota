@@ -5,8 +5,16 @@
             <Filename>ResurrectionRemix-M-v5.6.8-20160503-crackling</Filename>
             <RomUrl
                 id="rom"
-                title="Прошивка"
-                description="Скачать сборки ResurrectionRemix">https://drive.google.com/uc?export=download&confirm=no_antivirus&id=0BxI49g0gBK05ZjlUSDNjbm5WT00</RomUrl>
+                title="Google Диск"
+                description="Скачать ResurrectionRemix с Google Диск">https://yadi.sk/d/s6K0uPenrTH4W</RomUrl>
+            <RomUrl
+                id="rom"
+                title="Яндекс Диск"
+                description="Скачать ResurrectionRemix с Яндекс Диск">https://yadi.sk/d/s6K0uPenrTH4W</RomUrl>
+            <RomUrl
+                id="rom"
+                title="MEGA"
+                description="Скачать ResurrectionRemix с MEGA">https://yadi.sk/d/s6K0uPenrTH4W</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
