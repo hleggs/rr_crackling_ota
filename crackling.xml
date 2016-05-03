@@ -3,16 +3,16 @@
     <Stable>
         <crackling>
             <Filename>ResurrectionRemix-M-v5.6.8-20160503-crackling</Filename>
-            <RomUrl
-                id="rom"
+            <BuildsUrl
+            	id="builds"
                 title="Google Диск"
                 description="Скачать ResurrectionRemix с Google Диск">https://yadi.sk/d/s6K0uPenrTH4W</RomUrl>
             <RomUrl
                 id="rom"
                 title="Яндекс Диск"
                 description="Скачать ResurrectionRemix с Яндекс Диск">https://yadi.sk/d/s6K0uPenrTH4W</RomUrl>
-            <RomUrl
-                id="rom"
+            <BanksGappsUrl
+            	id="banks_gapps"
                 title="MEGA"
                 description="Скачать ResurrectionRemix с MEGA">https://yadi.sk/d/s6K0uPenrTH4W</RomUrl>
             <ChangelogUrl
