@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <crackling>
-            <Filename>ResurrectionRemix-M-v5.6.8-20160502-crackling</Filename>
+            <Filename>ResurrectionRemix-M-v5.6.8-20160503-crackling</Filename>
             <RomUrl
                 id="rom"
                 title="Прошивка"
-                description="Скачать сборки ResurrectionRemix">https://www.dropbox.com/s/yt8fg9ogqn44tg7/ResurrectionRemix-M-v5.6.8-20160502-crackling.zip?dl=0</RomUrl>
+                description="Скачать сборки ResurrectionRemix">https://www.androidfilehost.com/?fid=24531035584725094</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений"
