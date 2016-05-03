@@ -3,26 +3,26 @@
     <Stable>
         <crackling>
             <Filename>ResurrectionRemix-M-v5.6.8-20160503-crackling</Filename>
-            <BuildsUrl
-            	id="builds"
+            <ChangelogUrl
+                id="changelog"	
                 title="Google Диск"
-                description="Скачать ResurrectionRemix с Google Диск">https://yadi.sk/d/s6K0uPenrTH4W</BuildsUrl>
+                description="Скачать ResurrectionRemix с Google Диск">https://yadi.sk/d/s6K0uPenrTH4W</ChangelogUrl>
             <RomUrl
                 id="rom"
                 title="Яндекс Диск"
                 description="Скачать ResurrectionRemix с Яндекс Диск">https://yadi.sk/d/s6K0uPenrTH4W</RomUrl>
+            <OpenGappsUrl
+            	id="open_gapps	
+                title="MEGA1"
+                description="Скачать ResurrectionRemix с MEGA">https://yadi.sk/d/s6K0uPenrTH4W</OpenGappsUrl>
+            <BuildsUrl
+            	id="builds"
+                title="Список изменений"
+                description="Посмотреть список изменений">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</BuildsUrl>>
             <BanksGappsUrl
             	id="banks_gapps"
-                title="MEGA1"
-                description="Скачать ResurrectionRemix с MEGA">https://yadi.sk/d/s6K0uPenrTH4W</BanksGappsUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Список изменений"
-                description="Посмотреть список изменений">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>>
-            <OpenGappsUrl
-            	id="open_gapps"
             	title="Open GApps"
-            	description="Скачать последние Open GApps">http://opengapps.org</OpenGappsUrl>
+            	description="Скачать последние Open GApps">http://opengapps.org</BanksGappsUrl>
 	</crackling>
     </Stable>
 </SlimOTA>
