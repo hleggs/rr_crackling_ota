@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AICP</RomName> <!-- Название прошивки -->
-  <VersionName>AICP-crackling</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
+  <VersionName>AICP-11.0</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
   <VersionNumber type="integer">20160510</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
   <DirectUrl>https://basketbuild.com/uploads/devs/HLEEGG/AICP%20crackling%20(Wileyfox%20Swift)/aicp_crackling_mm-11.0-UNOFFICIAL-20160508.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
   <HttpUrl>https://basketbuild.com/uploads/devs/HLEEGG/AICP%20crackling%20(Wileyfox%20Swift)/aicp_crackling_mm-11.0-UNOFFICIAL-20160508.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
