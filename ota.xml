@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>AICP</RomName> <!-- Название прошивки -->
+  <VersionName>AICP-crackling</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
+  <VersionNumber type="integer">20160510</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
+  <DirectUrl>https://basketbuild.com/uploads/devs/HLEEGG/AICP%20crackling%20(Wileyfox%20Swift)/aicp_crackling_mm-11.0-UNOFFICIAL-20160508.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://basketbuild.com/uploads/devs/HLEEGG/AICP%20crackling%20(Wileyfox%20Swift)/aicp_crackling_mm-11.0-UNOFFICIAL-20160508.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <Android>6.0.1</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
+  <CheckMD5>89daf54aacc60edf85a1c87b8ef4ed79</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
+  <FileSize type="integer">231860</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
+  <Developer>HLEEGG</Developer> <!-- Ник, имя разработчика'ов -->
+  <Changelog>-Добавление ота</Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
+</ROM>
