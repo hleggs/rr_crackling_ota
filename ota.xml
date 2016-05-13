@@ -1,15 +1,15 @@
 <ROM>
 <RomName>AICP</RomName>
-<VersionName>aicp_crackling_mm-11.0-UNOFFICIAL-20160508</VersionName>
-<VersionNumber type="integer">20160510</VersionNumber>
+<VersionName>aicp_crackling_mm-11.0-UNOFFICIAL-20160513</VersionName>
+<VersionNumber type="integer">20160513</VersionNumber>
 <DirectUrl>
 <![CDATA[
-https://basketbuild.com/uploads/devs/HLEEGG/AICP%20crackling%20(Wileyfox%20Swift)/aicp_crackling_mm-11.0-UNOFFICIAL-20160508.zip
+https://dl.dropbox.com/s/x5epw15ca54ncw3/aicp_crackling_mm-11.0-UNOFFICIAL-20160513.zip
 ]]>
 </DirectUrl>
 <HttpUrl>
 <![CDATA[
-https://basketbuild.com/uploads/devs/HLEEGG/AICP%20crackling%20(Wileyfox%20Swift)/aicp_crackling_mm-11.0-UNOFFICIAL-20160508.zip
+https://dl.dropbox.com/s/x5epw15ca54ncw3/aicp_crackling_mm-11.0-UNOFFICIAL-20160513.zip
 ]]>
 </HttpUrl>
 <WebsiteURL>
@@ -23,8 +23,8 @@ https://google.ru
 ]]>
 </DonateURL>
 <Android>6.0.1</Android>
-<CheckMD5></CheckMD5>
-<FileSize type="integer">423244545</FileSize>
+<CheckMD5>441b1ed9da649ad2132f03c02aac9e47</CheckMD5>
+<FileSize type="integer">413132192</FileSize>
 <Developer nil="true">HLEEGG</Developer>
 <Changelog>
   ОТА
