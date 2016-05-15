@@ -1,15 +1,15 @@
 <ROM>
 <RomName>AICP</RomName>
-<VersionName>aicp_crackling_mm-11.0-UNOFFICIAL-20160513</VersionName>
-<VersionNumber type="integer">20160513</VersionNumber>
+<VersionName>aicp_crackling_mm-11.0-UNOFFICIAL-20160515</VersionName>
+<VersionNumber type="integer">20160515</VersionNumber>
 <DirectUrl>
 <![CDATA[
-https://dl.dropbox.com/s/x5epw15ca54ncw3/aicp_crackling_mm-11.0-UNOFFICIAL-20160513.zip
+https://basketbuild.com/uploads/devs/HLEEGG/AICP%20crackling%20(Wileyfox%20Swift)/aicp_crackling_mm-11.0-UNOFFICIAL-20160515.zip
 ]]>
 </DirectUrl>
 <HttpUrl>
 <![CDATA[
-https://dl.dropbox.com/s/x5epw15ca54ncw3/aicp_crackling_mm-11.0-UNOFFICIAL-20160513.zip
+https://basketbuild.com/uploads/devs/HLEEGG/AICP%20crackling%20(Wileyfox%20Swift)/aicp_crackling_mm-11.0-UNOFFICIAL-20160515.zip
 ]]>
 </HttpUrl>
 <WebsiteURL>
@@ -23,10 +23,169 @@ https://google.ru
 ]]>
 </DonateURL>
 <Android>6.0.1</Android>
-<CheckMD5>94d58e61e4f86a96673a1d651c51f186</CheckMD5>
-<FileSize type="integer">413132296</FileSize>
+<CheckMD5>1c670fa3f8f5ceb9b11679c6735692dc</CheckMD5>
+<FileSize type="integer">413165122</FileSize>
 <Developer nil="true">HLEEGG</Developer>
 <Changelog>
-  ОТА
+====================
+     05-15-2016
+====================
+
+
+   * frameworks/base/
+43ee1f0 Automatic translation import
+5d0c1bf MediaScanner: Add support for default ringtones per sim
+
+   * packages/apps/CMFileManager/
+6fac9aa Automatic translation import
+
+   * packages/apps/Contacts/
+6e5e658 Automatic translation import
+
+   * packages/apps/Dialer/
+d73b2f6 Automatic translation import
+
+   * packages/apps/Email/
+2ad31cb Automatic translation import
+
+   * packages/apps/Gallery2/
+9cfb25e Automatic translation import
+
+   * packages/apps/InCallUI/
+19b99ca Automatic translation import
+
+   * packages/apps/Messaging/
+ffec127 Automatic translation import
+
+   * packages/apps/Settings/
+0bb961b Automatic translation import
+540176c Automatic translation import
+b760f25 Merge "Use correct icon for sim card" into mm6.0
+
+   * packages/apps/SetupWizard/
+d8675c3 Automatic translation import
+
+   * packages/apps/Snap/
+a549c38 Automatic translation import
+1705a87 Snap: Extend user menu, disable dev menu
+
+   * packages/providers/DataUsageProvider/
+7a08b17 Automatic translation import
+
+   * packages/services/Telephony/
+3752bdb Automatic translation import
+
+   * vendor/aicp/
+cb11bc1 cm: Extend policy for IOP
+
+   * vendor/cmsdk/
+eb5ed47 Automatic translation import
+79c103c Automatic translation import
+
+====================
+     05-14-2016
+====================
+
+
+   * build/
+3054cf4 Avoid accidentally using the host's native 'as' command.
+
+   * device/wileyfox/crackling/
+30272ee crackling: enable subsystem restart on user builds
+
+   * frameworks/base/
+2bf4916 QS: fix performance profile tile observer
+0ce3406 SystemUI : Fix multi-user for keyguard
+bc65dc2 ActivityManager: fix perf boost NPE
+96fa3ce SystemUI: Set circle battery path as untranslatable
+e5f2dfd Update volume slider only if ringer mode changed
+3a2c77c Lockscreen : Disable left edge after showing keyguard
+35102f3 Merge changes I75820e8a,Ibeab94ad into mm6.0
+d6eb20b Keyguard: Allow swiping up when trust managed
+e7f7fa5 SpamFilter : Hide option if notification cannot be filtered
+
+   * hardware/qcom/audio-caf/msm8974/
+da55887 Merge remote-tracking branch 'caf/LA.BF.1.1.3_rb1.13' into cm-13.0-caf-8974
+
+   * hardware/qcom/display-caf/msm8974/
+59e66c6 Merge remote-tracking branch 'caf/LA.BF.1.1.3_rb1.13' into cm-13.0-caf-8974
+91790fc Revert "gralloc: fall back to old pixel alignment on old blobs"
+c26ee91 Revert "gralloc: allow forcing old pixel alignment"
+
+   * packages/apps/CMBugReport/
+24434f5 Automatic translation import
+
+   * packages/apps/Calendar/
+32409dd Automatic translation import
+
+   * packages/apps/Contacts/
+ef6fa49 Automatic translation import
+af31083 Use JobService for periodic InCallMetrics reporting
+f1e17cb Contacts : prompt run time READ_SMS permission for M
+d90403f Contacts InCall metrics test
+
+   * packages/apps/DeskClock/
+d03b7ff DeskClock: Use accelerometer instead of orientation sensor
+
+   * packages/apps/Dialer/
+b873acb Add additional permissions needed to utilize BlacklistUtils
+401d613 [2/2] Credit text and action should be limited to single line
+ee4006d InCallApi plugin strings not updated on locale change
+c1de337 Metrics fixes and switching to job sched
+ad84aa3 NPE: make sure search fragment is visible
+d0eaf6f Fix SuperNotCalledException
+15e3b4b Fix NPE within CallLogFragment
+
+   * packages/apps/Email/
+cb45162 Automatic translation import
+
+   * packages/apps/Gello/
+9a28000 Automatic translation import
+
+   * packages/apps/InCallUI/
+73708e1 Fixed crash in InCallActivity.
+af5edd7 Best fix for the case where ModButtonPresenter UI wasn't updating properly in onResume cases.
+521fc1c Mod buttons only enabled when incall
+8d25253 Don't query incall plugin invite intent until its actually needed
+
+   * packages/apps/Messaging/
+4ac5e9a Automatic translation import
+
+   * packages/apps/PhoneCommon/
+281a48f AmbientDataSubscription: don't post results for unknown plugins
+
+   * packages/apps/Screencast/
+481ce58 Automatic translation import
+
+   * packages/apps/Settings/
+5b910b7 Use correct icon for sim card
+85efa38 Cleanup cm_arrays
+13ef0b8 Fix build
+9fe76c9 Profiles: Disable notification item if ringtone & notification volumes are linked
+843178e Settings : Filter livelockscreen, button for secondary users
+
+   * packages/apps/SetupWizard/
+5d9cb85 SetupWizard: Alway show google pages if gms present
+
+   * packages/apps/SoundRecorder/
+8c2fa9f Automatic translation import
+
+   * packages/apps/ThemeChooser/
+bab1603 Automatic translation import
+
+   * packages/apps/Trebuchet/
+e93e2ee Automatic translation import
+
+   * packages/providers/DataUsageProvider/
+97e923c Automatic translation import
+
+   * packages/services/LiveLockScreenService/
+e672873 Automatic translation import
+
+   * vendor/aicp/
+4255d7b vendor: Inherit telephony stuff for onyx
+
+   * vendor/cmsdk/
+ae433ee PerformanceManagerService: drop requests if system is not yet ready
 </Changelog>
 </ROM>
