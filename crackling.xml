@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <crackling>
-            <Filename>ResurrectionRemix-M-v5.7.0-20160705-crackling</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.1-20160711-crackling</Filename>
             <RomUrl
                 id="rom"
                 title="Прошивка (Download)"
-                description="Скачать ResurrectionRemix">https://basketbuild.com/uploads/devs/HLEEGG/Resurrection%20Remix%20crackling%20(Wileyfox%20Swift)/ResurrectionRemix-M-v5.7.0-20160705-crackling.zip</RomUrl>
+                description="Скачать ResurrectionRemix">https://basketbuild.com/uploads/devs/HLEEGG/Resurrection%20Remix%20crackling%20(Wileyfox%20Swift)/ResurrectionRemix-M-v5.7.1-20160711-crackling.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Список изменений (Changelog)"
